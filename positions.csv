@@ -1,0 +1,6 @@
+ticker,side,notional_usd
+AAA,long,50000000
+BBB,long,30000000
+CCC,short,20000000
+DDD,long,40000000
+EEE,short,15000000
